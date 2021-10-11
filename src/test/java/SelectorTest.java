@@ -40,6 +40,8 @@ public class SelectorTest {
         By partialLink = By.partialLinkText("Visit");
         WebElement partialLinks = driver.findElement(partialLink);
 
+
+
     }
 
 }
